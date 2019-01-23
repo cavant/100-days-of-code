@@ -6,5 +6,5 @@
 
 **Thoughts:** Day number one.  I have high hopes for this challenge.  I am excited and a little nervous.  I overestimated what I actually knew about ASP.NET.  I can recall the terminology, but I'm a bit lost of where to begin.  I've decided to take a couple days to refresh my memory with tutorials.
 
-**Link to work:** [MealPlanner](https://github.com/delsuckahh/meal-planner)<br>
-                  [MvcMovie](https://github.com/delsuckahh/MvcMovie)
+**Link to work:** [Stardew Mods](https://github.com/cavant/Stardew-Mods)<br>
+                 
