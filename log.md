@@ -12,6 +12,6 @@ Today reminded me that while I can read through .Net code fairly well and parse 
                  
 ### Day 3: January 24, 2019
 
-**Todays Progress**: Did not log yesterday but all I worked on was truggling a little with the Visual Studio Environment.
+**Todays Progress**: Did not log yesterday but all I worked on was struggling a little with the Visual Studio Environment.
 
-**Thoughts**: Issues with creating the type of solution I needed for the mods both yesterday and today. The Visual Studio components that I needed were not installed caused the problem. Played artounf with the nuget package made to work with SMAPI (The Stardew Moddding API). This allows you to easily access objects in the game for manipulation.
+**Thoughts**: Issues with creating the type of solution I needed for the mods both yesterday and today. The Visual Studio components that I needed were not installed which caused the problem. Played around with the nuget package made to work with SMAPI (The Stardew Moddding API). This allows you to easily access objects in the game for manipulation.
